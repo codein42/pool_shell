@@ -1,0 +1,14 @@
+ga-f1% cd projects_Leo
+ga-f1% pwd
+/Users/kleigha/Desktop/projects_Leo
+ga-f1% mkdir ex00 ex01 ex02 ex03 ex04 ex05 ex06 ex07 ex08 ex09
+ga-f1% cd ex00
+ga-f1% ls
+ga-f1% dir
+zsh: command not found: dir
+ga-f1% pwd
+/Users/kleigha/Desktop/projects_Leo/ex00
+ga-f1% cat >>z
+Z
+ga-f1% cat z
+Z
